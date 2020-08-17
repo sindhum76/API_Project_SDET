@@ -1,0 +1,268 @@
+2020-08-10 11:37:28,694 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>5181</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-10 06:07:20</createdAt>
+            <updatedAt>2020-08-10 06:07:20</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>sindhum25@gmail.com</email>
+            <firstname>Sindu</firstname>
+            <lastname>M</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-10 11:37:28,733 INFO  [log] com.eviware.soapui.support.XmlHolder@fceee8
+2020-08-10 11:37:28,735 INFO  [log] 5181
+2020-08-10 11:37:30,281 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>5182</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-10 06:07:30</createdAt>
+            <updatedAt>2020-08-10 06:07:30</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>sindhum46@gmail.com</email>
+            <firstname>Sindhu</firstname>
+            <lastname>Marar</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-10 11:37:30,320 INFO  [log] com.eviware.soapui.support.XmlHolder@e433bb
+2020-08-10 11:37:30,325 INFO  [log] 5182
+2020-08-10 11:37:40,503 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>5182</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-10 06:07:30</createdAt>
+            <updatedAt>2020-08-10 06:07:30</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>sindhum46@gmail.com</email>
+            <firstname>Sindhu</firstname>
+            <lastname>Marar</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-10 11:37:40,552 INFO  [log] com.eviware.soapui.support.XmlHolder@793b7b
+2020-08-10 11:37:40,554 INFO  [log] 5182
+2020-08-10 11:37:41,469 INFO  [log] Customer is 
+2020-08-10 11:37:41,471 INFO  [log] Do not Call Customer
+2020-08-10 11:38:00,037 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>5183</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-10 06:07:50</createdAt>
+            <updatedAt>2020-08-10 06:07:50</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>sindhum25@gmail.com</email>
+            <firstname>Sindu</firstname>
+            <lastname>M</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-10 11:38:00,059 INFO  [log] com.eviware.soapui.support.XmlHolder@164f92e
+2020-08-10 11:38:00,062 INFO  [log] 5183
+2020-08-10 11:38:00,103 INFO  [log] com.eviware.soapui.impl.wsdl.testcase.WsdlTestCase@10d50ac
+2020-08-10 11:38:01,424 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>5184</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-10 06:08:02</createdAt>
+            <updatedAt>2020-08-10 06:08:02</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>sindhum27@gmail.com</email>
+            <firstname>Sindhu</firstname>
+            <lastname>Marar</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-10 11:38:01,460 INFO  [log] com.eviware.soapui.support.XmlHolder@15abac8
+2020-08-10 11:38:01,461 INFO  [log] 5184
+2020-08-10 11:38:12,637 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>5184</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-10 06:08:02</createdAt>
+            <updatedAt>2020-08-10 06:08:02</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>sindhum27@gmail.com</email>
+            <firstname>Sindhu</firstname>
+            <lastname>Marar</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-10 11:38:12,656 INFO  [log] com.eviware.soapui.support.XmlHolder@18dfe29
+2020-08-10 11:38:12,657 INFO  [log] 5184
+2020-08-10 11:38:12,660 INFO  [log] Status: FINISHED, time taken for TestCase was: 12525 ms
+2020-08-10 11:38:12,686 INFO  [log] Number of test steps which ran: 5
+2020-08-10 11:38:13,025 INFO  [log] 3 and 1
+2020-08-10 11:38:13,037 INFO  [log] sindhum29@gmail.com
+2020-08-10 11:38:13,042 INFO  [log] Sindhu
+2020-08-10 11:38:13,042 INFO  [log] Marar
+2020-08-10 11:38:13,044 INFO  [log] com.eviware.soapui.impl.wsdl.testcase.WsdlTestCase@10d50ac
+2020-08-10 11:38:14,038 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>5185</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-10 06:08:14</createdAt>
+            <updatedAt>2020-08-10 06:08:14</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>sindhum29@gmail.com</email>
+            <firstname>Sindhu</firstname>
+            <lastname>Marar</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-10 11:38:14,103 INFO  [log] com.eviware.soapui.support.XmlHolder@1a4bada
+2020-08-10 11:38:14,112 INFO  [log] 5185
+2020-08-10 11:38:23,515 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>5185</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-10 06:08:14</createdAt>
+            <updatedAt>2020-08-10 06:08:14</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>sindhum29@gmail.com</email>
+            <firstname>Sindhu</firstname>
+            <lastname>Marar</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-10 11:38:23,586 INFO  [log] com.eviware.soapui.support.XmlHolder@1e471e2
+2020-08-10 11:38:23,596 INFO  [log] 5185
+2020-08-10 11:38:23,607 INFO  [log] Status: FINISHED, time taken for TestCase was: 10523 ms
+2020-08-10 11:38:23,608 INFO  [log] Number of test steps which ran: 5
+2020-08-10 11:38:24,020 INFO  [log] sindhum46@gmail.com
+2020-08-10 11:38:24,021 INFO  [log] Sindhu
+2020-08-10 11:38:24,023 INFO  [log] Marar
+2020-08-10 11:38:24,030 INFO  [log] com.eviware.soapui.impl.wsdl.testcase.WsdlTestCase@10d50ac
+2020-08-10 11:38:25,433 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>5186</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-10 06:08:26</createdAt>
+            <updatedAt>2020-08-10 06:08:26</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>sindhum46@gmail.com</email>
+            <firstname>Sindhu</firstname>
+            <lastname>Marar</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-10 11:38:25,490 INFO  [log] com.eviware.soapui.support.XmlHolder@4d4c8b
+2020-08-10 11:38:25,501 INFO  [log] 5186
+2020-08-10 11:38:34,945 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>5186</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-10 06:08:26</createdAt>
+            <updatedAt>2020-08-10 06:08:26</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>sindhum46@gmail.com</email>
+            <firstname>Sindhu</firstname>
+            <lastname>Marar</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-10 11:38:35,019 INFO  [log] com.eviware.soapui.support.XmlHolder@6a1325
+2020-08-10 11:38:35,021 INFO  [log] 5186
+2020-08-10 11:38:35,024 INFO  [log] Status: FINISHED, time taken for TestCase was: 10972 ms
+2020-08-10 11:38:35,028 INFO  [log] Number of test steps which ran: 5
